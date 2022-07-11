@@ -1,5 +1,6 @@
-# bật lên
-idol zo assets/Scene/SampleScene.unity để zo nhé :V
+# BasicCharacterUnity
+A demonstration of a basic character set up for Unity
+
 ## Installation
 
 Clone to your computer and open with Unity
