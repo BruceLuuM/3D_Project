@@ -1,5 +1,5 @@
-# BasicCharacterUnity
-A demonstration of a basic character set up for Unity
+# 3D_Project_Unity
+Project ki thuat lap trinh noi dung so
 
 ## Installation
 
